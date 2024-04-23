@@ -1,2 +1,4 @@
-# vue_burger_webapp
-Vue page for tg burger app
+# Webapp page for tg bot.
+
+Bot link: https://t.me/fedor_bulkin_bot
+Chat with orders: https://t.me/+GroPij59-hhkOTky
