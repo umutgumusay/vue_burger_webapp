@@ -1,3 +1,3 @@
-# Webapp page for tg bot.
+# Webapp for burger makers
 
-Bot link: https://t.me/fedor_bulkin_bot 
+Made with vue, work with tg
